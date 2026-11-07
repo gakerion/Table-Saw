@@ -4,6 +4,8 @@ A compact DIY mini table saw built around a 775 DC motor, with a 3D-printed hous
 
 The motor drives a separate cutting shaft through a belt-and-pulley system, with the drive components housed underneath the removable tabletop. The photos show my assembled build and its internal layout.
 
+The new master assembly is the final assembly
+
 ### Features
 
 - Compact 3D-printed enclosure with ventilation slots.
